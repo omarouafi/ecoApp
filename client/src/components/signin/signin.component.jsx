@@ -49,9 +49,6 @@ const SignIn = ({ signinStart, googleStart }) => {
         />
         <div className="buttons">
           <Btn type="submit">SIGNIN</Btn>
-          <Btn google type="button" onClick={googleStart}>
-            SIGNIN WITH GOOGLE
-          </Btn>
         </div>
       </form>
     </div>
