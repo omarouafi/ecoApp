@@ -4,7 +4,7 @@ import "firebase/firestore";
 
 firebase.initializeApp({
   apiKey: "AIzaSyCT3eKOoTiWObVWu-tp4YyQwVdjqvobmXM",
-  authDomain: "crwnproject-a0af3.firebaseapp.com",
+  authDomain: "react.omarouafi.com",
   databaseURL: "https://crwnproject-a0af3.firebaseio.com",
   projectId: "crwnproject-a0af3",
   storageBucket: "crwnproject-a0af3.appspot.com",
